@@ -1,0 +1,165 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 1.6;
+    background-color: #eee8cd;
+}
+
+header {
+    background-color: #fd4e6d;
+    color: white;
+    padding: 5x;
+    text-align: center;
+
+    padding-top: 5px;
+}
+
+header .logo img {
+    width: 100px;
+    height: auto;
+
+
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin-top: 0px;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 0px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+
+    position: relative;
+    bottom: 22px;
+
+    padding-left: 20px;
+    padding-right: 20px;
+
+    font-size: 22px;
+}
+
+section {
+    padding: 40px 20px;
+}
+
+
+
+
+
+
+.fa {
+  padding: 40px;
+  padding-top: 80px;
+  padding-left: 100px;
+  padding-right: 100px;
+  
+  text-align: center;
+  text-decoration: none;
+
+  position: relative;
+  top: 100px;
+
+  margin-left: 180px;
+
+
+
+  border-radius: 20px;
+
+}
+  
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+
+}
+
+
+
+
+footer {
+  text-align: center;
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  margin-top: 600px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+h2{
+  margin-top: 100px;
+
+  text-align: center;
+  font-size: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
